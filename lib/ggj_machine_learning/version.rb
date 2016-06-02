@@ -1,3 +1,3 @@
-module GgjMachineLearning
+class GgjMachineLearning
   VERSION = "0.1.0"
 end

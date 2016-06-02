@@ -1,5 +1,7 @@
 require "ggj_machine_learning/version"
 
-module GgjMachineLearning
-  # Your code goes here...
+class GgjMachineLearning
+  def self.helloWorld
+    "Hello World!"
+  end
 end

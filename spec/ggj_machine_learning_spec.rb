@@ -5,7 +5,7 @@ describe GgjMachineLearning do
     expect(GgjMachineLearning::VERSION).not_to be nil
   end
 
-  it 'does something useful' do
-    expect(false).to eq(true)
+  it 'Hello World' do
+    expect(GgjMachineLearning.helloWorld).to eq "Hello World!"
   end
 end
