@@ -9,6 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Guillermo Garcia Juanes"]
   spec.email         = ["ggjuanes@gmail.com"]
 
+  spec.license       = "MIT"
   spec.summary       = "Machine Learning Gem"
   spec.description   = "This is a gem to try first steps in Machine Learning."
   spec.homepage      = "http://ggjuanes.es"
